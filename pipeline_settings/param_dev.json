@@ -1,0 +1,7 @@
+{
+  "Parameters": {
+    "LambdaFunctionName": "TestFunctionDev",
+    "LambdaFunctionHandler": "lambda_handler.lambda_handler"
+  }
+}
+
